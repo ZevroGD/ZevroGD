@@ -1,6 +1,6 @@
 # Hey, I'm ZevroGD 👋
 
-I build software, experiment with Android and Minecraft, and make tools to fix things that probably should have worked in the first place.
+I enjoy working on software projects, mostly around Android and Minecraft. I like experimenting with existing tools, changing things to work the way I want, and building little projects along the way.
 
 ## Projects
 
@@ -19,10 +19,6 @@ I build software, experiment with Android and Minecraft, and make tools to fix t
 - **[PocketArcade](https://github.com/ZevroGD/PocketArcade)** — A collection of small browser games.
 - **[Bouncing Ball](https://github.com/ZevroGD/Bouncing-Ball)** — A browser-based physics demo.
 
-## Technologies
+## Tools & technologies
 
 Java · Kotlin · JavaScript · Python · Android · Fabric · GitHub Actions
-
----
-
-*Learning by building, debugging, and occasionally wondering why the build passed yesterday.*
